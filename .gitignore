@@ -1,0 +1,25 @@
+# --------------------
+# Python
+# --------------------
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --------------------
+# Environment variables (VERY IMPORTANT)
+# --------------------
+.env
+
+# --------------------
+# OS / Editor
+# --------------------
+.DS_Store
+Thumbs.db
+.vscode/
+
+# --------------------
+# Logs (optional)
+# --------------------
+*.log
